@@ -1,9 +1,11 @@
 streamlit
-langchain
-langchain-community
+langchain>=0.3.0
+langchain-community>=0.3.0
 langchain-groq
+langchain-core
+langchain-openai
 python-dotenv
-pydantic
+pydantic<2.0.0
 duckduckgo-search
 wikipedia
 langgraph
